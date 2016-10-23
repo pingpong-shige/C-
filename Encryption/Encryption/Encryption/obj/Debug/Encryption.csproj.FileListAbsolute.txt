@@ -1,0 +1,10 @@
+c:\users\lenovo\documents\visual studio 2015\Projects\Encryption\Encryption\bin\Debug\Encryption.exe.config
+c:\users\lenovo\documents\visual studio 2015\Projects\Encryption\Encryption\bin\Debug\Encryption.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\Encryption\Encryption\bin\Debug\Encryption.pdb
+c:\users\lenovo\documents\visual studio 2015\Projects\Encryption\Encryption\obj\Debug\Encryption.csprojResolveAssemblyReference.cache
+c:\users\lenovo\documents\visual studio 2015\Projects\Encryption\Encryption\obj\Debug\Encryption.Form1.resources
+c:\users\lenovo\documents\visual studio 2015\Projects\Encryption\Encryption\obj\Debug\Encryption.Properties.Resources.resources
+c:\users\lenovo\documents\visual studio 2015\Projects\Encryption\Encryption\obj\Debug\Encryption.csproj.GenerateResource.Cache
+c:\users\lenovo\documents\visual studio 2015\Projects\Encryption\Encryption\obj\Debug\Encryption.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\Encryption\Encryption\obj\Debug\Encryption.pdb
+c:\users\lenovo\documents\visual studio 2015\Projects\Encryption\Encryption\obj\Debug\Encryption.Form2.resources
